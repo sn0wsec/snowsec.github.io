@@ -1,6 +1,6 @@
 baseURL = 'http://snowsec.io/'
 languageCode = 'en-us'
-title = 'Computer Science Blog'
+title = 'snowsec\'s blog'
 theme = "m10c"
 
 [menu]

@@ -13,7 +13,7 @@ theme = "m10c"
 [params]
   author = "snowsec"
   avatar = "/avatar.jpg"
-  description = "Offensive Security & Red Teaming Enthusiast"
+  description = "Computer Science Student | Offensive Security & Red Teaming Enthusiast."
   menu_item_separator = " - "
   
   [[params.social]]

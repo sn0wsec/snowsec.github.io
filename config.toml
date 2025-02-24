@@ -1,4 +1,4 @@
-baseURL = 'snowsec-github-io.vercel.app'
+baseURL = 'snowsec.io'
 languageCode = 'en-us'
 title = 'The snowsec lair'
 theme = "m10c"

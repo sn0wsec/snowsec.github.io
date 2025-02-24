@@ -1,4 +1,4 @@
-baseURL = 'http://ventdrop.github.io/'
+baseURL = 'https://snowsec-github-io.vercel.app/'
 languageCode = 'en-us'
 title = 'The snowsec lair'
 theme = "m10c"

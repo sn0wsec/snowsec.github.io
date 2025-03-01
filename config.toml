@@ -1,6 +1,6 @@
 baseURL = 'https://snowsec-github-io.vercel.app/'
 languageCode = 'en-us'
-title = 'The snowsec lair'
+title = 'snowsec'
 theme = "m10c"
 
 [menu]
@@ -23,7 +23,7 @@ theme = "m10c"
 
 
   [params.style]
-  darkestColor = "#242930"
+  darkestColor = "#000000"
   darkColor = "#353b43"
   lightColor = "#afbac4"
   lightestColor = "#ffffff"
